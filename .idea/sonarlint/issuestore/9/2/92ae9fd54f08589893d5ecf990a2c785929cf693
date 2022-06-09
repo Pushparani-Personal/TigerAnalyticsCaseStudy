@@ -1,0 +1,59 @@
+
+L
+java:S3740&"/Provide the parametrized type for this generic.(®˜° 8ñö•”0
+i
+java:S2095i"GUse try-with-resources or close this "CSVWriter" in a "finally" clause.(Ñ—ªışÿÿÿÿ8õÆ¹Ÿ”0
+j
+java:S2095"GUse try-with-resources or close this "CSVWriter" in a "finally" clause.(Ñ—ªışÿÿÿÿ8œßé¡”0
+c
+java:S34575"AFormat specifiers should be used instead of string concatenation.(Š§¦õüÿÿÿÿ8Á’¡”0
+L
+java:S3740&"/Provide the parametrized type for this generic.(®˜° 8ñö•”0
+_
+java:S3457š"AFormat specifiers should be used instead of string concatenation.(¬’Ÿ±8œßé¡”0
+c
+java:S3457w"AFormat specifiers should be used instead of string concatenation.(ğÆÇ…şÿÿÿÿ8õÆ¹Ÿ”0
+^
+java:S3457t"AFormat specifiers should be used instead of string concatenation.(çˆ©8õÆ¹Ÿ”0
+N
+java:S1602D",Remove useless curly braces around statement(ÑÀµÑúÿÿÿÿ8ñö•”0
+u
+java:S21391"XEither log this exception and handle it, or rethrow it with some contextual information.(³«‚•8„¾µ”0
+e
+java:S2095„"GUse try-with-resources or close this "CSVReader" in a "finally" clause.(–Ğœ²8ò ÉŸ”0
+c
+java:S3457q"AFormat specifiers should be used instead of string concatenation.(‚Ôóşÿÿÿÿ8õÆ¹Ÿ”0
+^
+java:S34572"AFormat specifiers should be used instead of string concatenation.(¡Ğ—8±Ñò”0
+
+java:S11922"bDefine a constant instead of duplicating this literal "Unable to retrieve data from csv." 3 times.(¡Ğ—8ïÆ´”0
+d
+java:S2095X"GUse try-with-resources or close this "CSVReader" in a "finally" clause.(–Ğœ²8õÆ¹Ÿ”0
+l
+java:S1192%"PDefine a constant instead of duplicating this literal "ProductList.csv" 5 times.(Ö¶8á‘ª˜”0
+d
+java:S3457·"AFormat specifiers should be used instead of string concatenation.(ìİ•¦úÿÿÿÿ8œßé¡”0
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ø¨›8Ìí“”0
+n
+java:S11920"QDefine a constant instead of duplicating this literal "Source not found" 3 times.(ŸÊ…µ8õÆ¹Ÿ”0
+]
+java:S3457J"AFormat specifiers should be used instead of string concatenation.(‚Ş½`8ã“¯”0
+^
+java:S3457n"AFormat specifiers should be used instead of string concatenation.(ÑìÌœ8õÆ¹Ÿ”0
+d
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Í¯ÇŒøÿÿÿÿ8œßé¡”0
+L
+java:S3740?"/Provide the parametrized type for this generic.(ğ§ÑÙ8ñö•”0
+u
+java:S2139s"XEither log this exception and handle it, or rethrow it with some contextual information.(³«‚•8õÆ¹Ÿ”0
+Š
+java:S11920"mDefine a constant instead of duplicating this literal "Failed to fetch source file from given path." 3 times.(ŸÊ…µ8õÆ¹Ÿ”0
+d
+java:S3457—"AFormat specifiers should be used instead of string concatenation.(Ùğšƒıÿÿÿÿ8œßé¡”0
+^
+java:S3457/"AFormat specifiers should be used instead of string concatenation.(ÑìÌœ8®×—”0
+v
+java:S2139™"XEither log this exception and handle it, or rethrow it with some contextual information.(³«‚•8œßé¡”0
+d
+java:S3457”"AFormat specifiers should be used instead of string concatenation.(şÄóßûÿÿÿÿ8œßé¡”0
